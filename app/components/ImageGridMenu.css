@@ -1,0 +1,11 @@
+.form {
+    float: left;
+    background: lightgreen;
+    width: 120px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.form label {
+    display: block;
+}
